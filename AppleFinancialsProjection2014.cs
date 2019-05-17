@@ -109,7 +109,7 @@ public class AppleFinancialsProjection2014: PrivateFunctionality  // inherits al
 
     public int printInformation(AppleFinancialsProjection2014 analysis, double currencyExchangeRate)
     {
-        Console.WriteLine($"\n Synergy Analysis with Apple Financials Projected from 2014 onwards: \n");
+        Console.WriteLine($"\n Synergy Analysis with Apple Financials Projected from 2014 onwards with custom variables: \n");
 
 
 
