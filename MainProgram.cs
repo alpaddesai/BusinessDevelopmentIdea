@@ -58,7 +58,7 @@ namespace DashboardAnalysis
 /*   PRINTED OUTPUT
  
  
- Synergy Analysis with Apple Financials Projected from 2014 onwards:
+ Synergy Analysis with Apple Financials Projected from 2014 onwards with custom variables:
 
  Dashboard value of Apple Valuation is  $USD 674554.42 million and price per share is $112.12
  Dashboard value of Pioneer Valuation  is  Yen 141037.74 million and price per share is Yen 343.21
@@ -66,7 +66,7 @@ namespace DashboardAnalysis
  Dashboard value of Combined Entity Valuation  is  $USD 684600.78 million and price per share is $USD 117 with
  Market Synergies of $USD 9268.55 million and  Operational Synergies of $USD 629.91 million
 
- Synergy Analysis with Apple Financials Projected from 2014 onwards:
+ Synergy Analysis with Apple Financials Projected from 2014 onwards with custom variables:
 
  Dashboard value of Apple Valuation is  $USD 671426.9 million and price per share is $111.59
  Dashboard value of Pioneer Valuation  is  Yen 134613.6 million and price per share is Yen 325.71
@@ -74,7 +74,7 @@ namespace DashboardAnalysis
  Dashboard value of Combined Entity Valuation  is  $USD 686454.49 million and price per share is $USD 117 with
  Market Synergies of $USD 11122.26 million and  Operational Synergies of $USD 629.91 million
 
- Synergy Analysis with Apple Financials Projected from 2014 onwards:
+ Synergy Analysis with Apple Financials Projected from 2014 onwards with custom variables:
 
  Dashboard value of Apple Valuation is  $USD 674554.42 million and price per share is $112.12
  Dashboard value of Pioneer Valuation  is  Yen 141037.74 million and price per share is Yen 343.21
