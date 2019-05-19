@@ -32,7 +32,7 @@ public class PrivateFunctionality
         double ProprietaryFreeCashFlow2016 = ProprietaryFreeCashFlow2015 * (1 + custompegRate);
         double ProprietaryFreeCashFlow2017 = ProprietaryFreeCashFlow2016 * (1 + custompegRate);
         double ProprietaryFreeCashFlow2018 = ProprietaryFreeCashFlow2017 * (1 + custompegRate);
-        double TerminalValue = (ProprietaryFreeCashFlow2018 * (1 + 0.05)) / (discountRate - 0.05);
+        double TerminalValue = (ProprietaryFreeCashFlow2018 * (1 + custompegRate)) / (discountRate - custompegRate);
 
         double APV = Math.Round(ProprietaryFreeCashFlow2014 / (Math.Pow((1 + discountRate), 1)) +
                                  ProprietaryFreeCashFlow2015 / (Math.Pow((1 + discountRate), 2)) +
@@ -54,7 +54,7 @@ public class PrivateFunctionality
         double ProprietaryFreeCashFlow2016 = ProprietaryFreeCashFlow2015 * (1 + custompegRate);
         double ProprietaryFreeCashFlow2017 = ProprietaryFreeCashFlow2016 * (1 + custompegRate);
         double ProprietaryFreeCashFlow2018 = ProprietaryFreeCashFlow2017 * (1 + custompegRate);
-        double TerminalValue = (ProprietaryFreeCashFlow2018 * (1 + 0.05)) / (discountRate - 0.05);
+        double TerminalValue = (ProprietaryFreeCashFlow2018 * (1 + custompegRate)) / (discountRate - custompegRate);
 
         double APV = Math.Round(ProprietaryFreeCashFlow2014 / (Math.Pow((1 + discountRate), 1)) +
                                  ProprietaryFreeCashFlow2015 / (Math.Pow((1 + discountRate), 2)) +
