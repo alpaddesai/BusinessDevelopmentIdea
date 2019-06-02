@@ -1,4 +1,4 @@
-# Synergies
+## Project on Synergies 
 PostExcelComparisons
 
 The project provides a custom  analysis of synergies for a pretend merger between two public organizations. The views of the code and the output
