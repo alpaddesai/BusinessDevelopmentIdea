@@ -22,6 +22,8 @@ Output of the file:
 
 
 
+
+
  Synergy Analysis with Apple Financials Projected from 2014 onwards with custom variables:
 
 
@@ -35,6 +37,8 @@ Output of the file:
  Dashboard value of Combined Entity Valuation  is  $USD 686454.49 million and price per share is $USD 117 with
 
  Market Synergies of $USD 11122.26 million and  Operational Synergies of $USD 629.91 million
+
+
 
 
 
