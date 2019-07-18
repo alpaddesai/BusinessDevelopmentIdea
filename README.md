@@ -3,7 +3,7 @@ PostExcelComparisons
 
 The project provides a custom  analysis of synergies for a pretend merger between two public organizations. The views of the code and the output do not represent the views of the public entities.  Please reference the .cpp files for details. 
 
-All images are either custom by Alpa D Desai or a reference name is included. Most of the images are custom. Copyright protection in progress.
+All images are either custom by Alpa D Desai or a reference name is included. Company confidential information is not displayed. Most of the images are custom. Copyright protection in progress.
 
 
 Output of the file:
