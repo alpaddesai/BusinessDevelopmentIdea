@@ -57,3 +57,6 @@ Output of the file:
  Dashboard value of Combined Entity Valuation  is  $USD 684600.78 million and price per share is $USD 117 with
 
  Market Synergies of $USD 9268.55 million and  Operational Synergies of $USD 629.91 million
+ 
+ ## Equity Research and Financial Modeling
+ ![image](EquityResearchFinancialModeling.png)
