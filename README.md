@@ -59,4 +59,4 @@ Output of the file:
  Market Synergies of $USD 9268.55 million and  Operational Synergies of $USD 629.91 million
  
  ## Equity Research and Financial Modeling
- ![image](EquityResearchFinancialModeling.png)
+ ![image](EquityResearchFinancialModeling.jpg)
