@@ -60,3 +60,5 @@ Output of the file:
  
  ## Equity Research and Financial Modeling
  ![image](EquityResearchFinancialModeling.jpg)
+
+Advanced knowledge : https://github.com/alpaddesai/BusinessLaw
