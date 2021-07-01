@@ -63,5 +63,8 @@ Output of the file:
  
  ## Interest
  ![image](image.jpg)
+ 
+ ## Ethics and Integrity
+ ![image](EthicsandExcellence.png)
 
 Advanced knowledge : https://github.com/alpaddesai/BusinessLaw
