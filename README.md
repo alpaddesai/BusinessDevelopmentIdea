@@ -66,5 +66,7 @@ Output of the file:
  
  ## Ethics and Integrity
  ![image](EthicsandExcellence.png)
+ 
+ ![image](USCopyrightCertificate.png)
 
 Advanced knowledge : https://github.com/alpaddesai/BusinessLaw
