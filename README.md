@@ -65,7 +65,7 @@ Output of the file:
  ![image](image.jpg)
  
  ## Exam
- ![image]()
+ ![image](CFAExam.jpg)
  
  ## Ethics and Integrity
  ![image](EthicsandExcellence.png)
