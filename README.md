@@ -64,9 +64,6 @@ Output of the file:
  ## Interest
  ![image](image.jpg)
  
- ## Exam
- ![image](CFAExam.jpg)
- 
  ## Ethics and Integrity
  ![image](EthicsandExcellence.png)
  
