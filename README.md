@@ -69,4 +69,4 @@ Output of the file:
  
  ![image](USCopyrightCertificate.png)
 
-Advanced knowledge : https://github.com/alpaddesai/BusinessLaw
+Advanced knowledge : https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea
